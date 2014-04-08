@@ -1,12 +1,5 @@
 html_parser
 ===========
 
-html_parser/Code
-1. Excute make
-2. type html_parser
-3. Wait for input something
+See html_parser/DOC/Readme.txt
 
-
-
-Reference:
-        [[Streaming HTML parser|https://code.google.com/p/streamhtmlparser/]]
